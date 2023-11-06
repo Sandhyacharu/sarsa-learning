@@ -63,6 +63,8 @@ def sarsa(env,
 ![image](https://github.com/Sandhyacharu/sarsa-learning/assets/75235167/e8dc4f5b-5d73-4dce-84da-b89f263300a8)
 
 ### State value functions of Monte Carlo method and SARSA learning:
+![image](https://github.com/Sandhyacharu/sarsa-learning/assets/75235167/fbab0a47-9e32-402a-a74b-d637e70b27d4)
+
 ![image](https://github.com/Sandhyacharu/sarsa-learning/assets/75235167/76beb042-8b94-47c0-9603-22af4a76df82)
 
 ## RESULT:

@@ -24,9 +24,6 @@ Update the Q-value for the current state-action pair (S, A) using the SARSA upda
 ### Step 5:
 Update State and Action and repeat the step 3 untill the episodes ends.
 
-<br>
-<br>
-
 ## SARSA LEARNING FUNCTION
 ```python3
 # Developed by: Sandhya Charu N
@@ -66,45 +63,11 @@ def sarsa(env,
     return Q, V, pi, Q_track, pi_track
 ```
 
-
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-
-
-
-
 ## OUTPUT:
 ### Optimal policy, optimal value function , success rate for the optimal policy:
 ![image](https://github.com/Sandhyacharu/sarsa-learning/assets/75235167/0e5bc704-bf54-46cd-9098-94c3c7741e5c)
 
 ![image](https://github.com/Sandhyacharu/sarsa-learning/assets/75235167/ada93228-560c-43b8-894c-00ecce5b9342)
-
-
-
-<br>
-<br>
-
 
 ### State value functions of Monte Carlo method and SARSA learning:
 ![image](https://github.com/Sandhyacharu/sarsa-learning/assets/75235167/8ce768be-5a11-4ee4-a5d1-7bc2ebdd707e)

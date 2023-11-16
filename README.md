@@ -62,6 +62,10 @@ def sarsa(env,
     pi=lambda s:{s:a for s,a in enumerate(np.argmax(Q,axis=1))}[s]
     return Q, V, pi, Q_track, pi_track
 ```
+
+<br>
+<br>
+
 ## OUTPUT:
 ### Optimal policy, optimal value function , success rate for the optimal policy:
 ![image](https://github.com/Sandhyacharu/sarsa-learning/assets/75235167/0e5bc704-bf54-46cd-9098-94c3c7741e5c)
